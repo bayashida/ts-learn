@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bayashida/ts-learn/issues"
   },
-  "homepage": "https://github.com/bayashida/ts-learn#readme"
+  "homepage": "https://github.com/bayashida/ts-learn#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
